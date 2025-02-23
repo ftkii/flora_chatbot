@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "florabot-xbhb",
+  "private_key_id": "47d6fecb4976fea9725bfdb92dfa42c9b1888e0f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC2w+reRaInahg\n0z7ev3VTdqVFnAT+BtsxH2dS32lRTIsJPAW3/28b6xEaHJ1EL7Ch11cwmuDofg74\nQfZcwA4FxV0OOvrWhcuMe896FsJ1JpbNYmxGw4sgun2h1dTmnw+06rWGsD86hYaW\npUqYduJ68mcFkm/D46OX+Ri36uLtuXZjsZ04Fse23neEqdmlFJDKa1K+fF+5WtAG\ntNPUMwslo1W51ZLSk0q824WTbcrODvfcJrk2QvCriLdKzcf7Fr6WK/bU67zJof30\nDpPX/QWqHQDZwi6jA1a7FXET8tjO/Plg9Xm7rCF+sXFu5BCVKIxC/c2p6cQERGKv\ni37RiJbdAgMBAAECggEAHn+u4F4nwUK6sqEN6PaFtNvQED5UkmAyBGp6aoBuhHDw\nctsSuBMtPxeYHy1VuPD6pXJGWDoTCZYwM0+7xxZb0Npsmh1wL+NUPKJlE00nAF2F\nuBL3iKHzD7CGQ9jrexzFbBdan1Yh0hVJP3YStXInjn/iJn9JABu2z5gydBhkjuRf\nNso4k177CaSu0NXMiYxTMzHTpTWjg1JOPApQxyNgyYW48Qf08UmmDO6pLt7dEzoF\nrYUqC4Tv1gznDdeHYJpdEgRX9wnmXa6V5nLOCqSUnwtaV/ufuCNxk+ez1xfHC7ut\nmfdPuQCkaOnmITvA884W+yD39LiBscZLscZJfpa+bwKBgQD9gPsv2xqtIxXfQ0RR\n34lGH8j9ren24/gw06F2bvKf7ugMUnDaWTIWs7yOzWCHPHHAndF+auQBdyj0VYq/\n/dICZRGMUZGPuSJNgLrXXihBFJR3tEdjnueyDZ/rVhcInhz844T0w8mW/QkNjlmZ\nKfZlIP5JtUEwPD7MCoHBkmj24wKBgQDExj4z0tlUQ/AdTF3FpZppzbF2zyl8lm7I\nWj9yX2U7R2gOvcqV5Rkg8A0OBRYyEV9eGHlAt45I4t9euwx0QGy4MHPKP9K/YwGd\nd06EM0FRbnkMgDwjhaL8SYBLGmC+tFYTkSlZ47+VUdADADfBgUGl3F3Q1oDtd9Yz\nb8CMJ+/nPwKBgQCY4wIa4ZScGM3nIaWBj0Q2E5NfU1UIfoK/x9LYH5+aTzaJv+qp\n9SNdR7cPlNODnDOqjEO9b2/lZl0/xptwoP7YTOYhb0xPlsMWZO3KV9IFNgk4jHSF\no19vJgJtpzUrEFjBN+KGz9GzixW7pD9rPUCJyzUxdOxE0AC7hBavjMJbKwKBgFQJ\nakVNtj1TqneIxr+DYzfufe0Eum4X/QYZ7ODWtvAjJeCt05hCuIGlo52qNHl7i+Qu\nxZILEnw0UDsv3TjEzum236yvpzzPdsAeVO0Gys2RRac+GPD+wMXISj9I66pmcCB5\nLVTTfF20DAdMD4PXxQal33cyNOu180gSYQQ6hi2XAoGANFvVNVpuSn/gxDieBh5a\n8d1wQA6bTYv2kqZhKxhbHYEGceu0At7s/srYH4v0ffJXwHxjaPMAirkfXZBPXAWA\nraDHNTEbkdpUxz6EQDKnobs57yarWL/7hfOQtrNmEJJvST3R4SzW9fsgLuqVIm0o\n2gbVTOOCfj+XxLDkfXyfcPc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "flora-960@florabot-xbhb.iam.gserviceaccount.com",
+  "client_id": "116213402987631446794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flora-960%40florabot-xbhb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
